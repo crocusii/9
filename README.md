@@ -1,4 +1,4 @@
-# 9 <br> <img src="Shana Tova.png"/>
+# 9 <br> <img src="Shana Tova.png" !/>
 <br>
 <br>
     Directory: C:\Users\commons\Desktop\portal<br>
